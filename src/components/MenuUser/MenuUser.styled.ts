@@ -5,7 +5,7 @@ export const MenuNav = styled.div`
     width: 80%;
     margin: 0 auto;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     color: var(--cor-menu-perfil) ;
     border-bottom:1px solid  var(--cor-borda);
