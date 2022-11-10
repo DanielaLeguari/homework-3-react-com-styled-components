@@ -7,3 +7,12 @@ O projeto foi desenvolvido em React com TypeScript e Styled Components.
 ### `npm start`
 
 
+### Login
+ ![](/imagens/login.png)
+
+
+### Perfil
+
+![](/imagens/perfil-.png)
+
+
