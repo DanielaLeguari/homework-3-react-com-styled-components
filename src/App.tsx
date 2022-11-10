@@ -1,12 +1,10 @@
-
-
-import MenuLoginSignUp from './components/MenuLoginSignUp/MenuLoginSignUp';
+import Login from './pages/Login/Login';
 
 function App() {
   return (
     <div className="App">
-      <MenuLoginSignUp/>
-      </div>
+      <Login />
+    </div>
   );
 }
 

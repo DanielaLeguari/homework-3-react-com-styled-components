@@ -8,22 +8,18 @@ export const MenuLoginContainer = styled.div`
     display: grid;
     grid-template-rows:auto 1fr auto;
     
-   
-
-
     header{
         display: flex;
         align-items: center;
         color :var(--cor-menu) ;
         font-size:1.125rem ;
-        margin: 2rem 0 0 2rem;
-        
+        margin: 2rem 0 0 2rem;   
     }
+    
     p{
         margin-left: 0.5rem;
     }
    
-
     main{
         color :var(--cor-menu) ;
         display: flex;
@@ -34,7 +30,6 @@ export const MenuLoginContainer = styled.div`
     footer{
        color :var(--cor-menu) ;
        margin: 0 0 2rem 2rem;
-     size: 1rem;
     }
 
     ul{
@@ -46,6 +41,4 @@ export const MenuLoginContainer = styled.div`
     li{
         margin-left: 1rem;
     }
-
-
 `

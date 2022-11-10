@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
 * {
   margin: 0;
   padding: 0;
@@ -5,6 +6,11 @@
 
 :root{
   --cor-menu: #FFFFFF;
+  --cor-botao: #007DFA;
+  --cor-texto-azul:#2F3367;
+  --cor-texto-paragrafo:#6B6D92;
+  --cor-links:#007DFA;
+  --fonte: 'Poppins', sans-serif;
 }
 
 body {
