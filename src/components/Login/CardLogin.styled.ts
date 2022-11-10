@@ -51,6 +51,7 @@ button{
 
 button:hover{
     background-color: var(--cor-texto-azul);
+    
 }
 .usuario{
    color:var(--cor-texto-azul);

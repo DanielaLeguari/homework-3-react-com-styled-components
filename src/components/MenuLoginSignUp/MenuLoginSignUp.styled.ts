@@ -13,7 +13,8 @@ export const MenuLoginContainer = styled.div`
         align-items: center;
         color :var(--cor-menu) ;
         font-size:1.125rem ;
-        margin: 2rem 0 0 2rem;   
+        margin: 2rem 0 0 2rem; 
+        cursor: pointer;  
     }
     
     p{
